@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\OOP\OOP9_WindowsForms\bin\Debug\OOP9_WindowsForms.exe.config
+C:\Users\Admin\source\repos\OOP\OOP9_WindowsForms\bin\Debug\OOP9_WindowsForms.exe
+C:\Users\Admin\source\repos\OOP\OOP9_WindowsForms\bin\Debug\OOP9_WindowsForms.pdb
+C:\Users\Admin\source\repos\OOP\OOP9_WindowsForms\obj\Debug\OOP9_WindowsForms.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\OOP\OOP9_WindowsForms\obj\Debug\OOP9_WindowsForms.Form1.resources
+C:\Users\Admin\source\repos\OOP\OOP9_WindowsForms\obj\Debug\OOP9_WindowsForms.Properties.Resources.resources
+C:\Users\Admin\source\repos\OOP\OOP9_WindowsForms\obj\Debug\OOP9_WindowsForms.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\OOP\OOP9_WindowsForms\obj\Debug\OOP9_WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\OOP\OOP9_WindowsForms\obj\Debug\OOP9_WindowsForms.exe
+C:\Users\Admin\source\repos\OOP\OOP9_WindowsForms\obj\Debug\OOP9_WindowsForms.pdb
