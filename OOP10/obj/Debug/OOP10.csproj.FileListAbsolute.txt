@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\OOP\OOP10\bin\Debug\OOP10.exe.config
+C:\Users\Admin\source\repos\OOP\OOP10\bin\Debug\OOP10.exe
+C:\Users\Admin\source\repos\OOP\OOP10\bin\Debug\OOP10.pdb
+C:\Users\Admin\source\repos\OOP\OOP10\obj\Debug\OOP10.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\OOP\OOP10\obj\Debug\OOP10.Form1.resources
+C:\Users\Admin\source\repos\OOP\OOP10\obj\Debug\OOP10.Properties.Resources.resources
+C:\Users\Admin\source\repos\OOP\OOP10\obj\Debug\OOP10.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\OOP\OOP10\obj\Debug\OOP10.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\OOP\OOP10\obj\Debug\OOP10.exe
+C:\Users\Admin\source\repos\OOP\OOP10\obj\Debug\OOP10.pdb
