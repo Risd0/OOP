@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\OOP\OOP11_WinForms\obj\Debug\OOP11_WinForms.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\OOP\OOP11_WinForms\obj\Debug\OOP11_WinForms.Form1.resources
+C:\Users\Admin\source\repos\OOP\OOP11_WinForms\obj\Debug\OOP11_WinForms.Properties.Resources.resources
+C:\Users\Admin\source\repos\OOP\OOP11_WinForms\obj\Debug\OOP11_WinForms.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\OOP\OOP11_WinForms\obj\Debug\OOP11_WinForms.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\OOP\OOP11_WinForms\bin\Debug\OOP11_WinForms.exe.config
+C:\Users\Admin\source\repos\OOP\OOP11_WinForms\bin\Debug\OOP11_WinForms.exe
+C:\Users\Admin\source\repos\OOP\OOP11_WinForms\bin\Debug\OOP11_WinForms.pdb
+C:\Users\Admin\source\repos\OOP\OOP11_WinForms\obj\Debug\OOP11_WinForms.exe
+C:\Users\Admin\source\repos\OOP\OOP11_WinForms\obj\Debug\OOP11_WinForms.pdb
