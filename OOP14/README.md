@@ -1,19 +1,21 @@
-![image](https://user-images.githubusercontent.com/55552780/115602143-45600d80-a2e7-11eb-9732-d900a3c625fe.png) <br>
+![image](https://user-images.githubusercontent.com/55552780/115602143-45600d80-a2e7-11eb-9732-d900a3c625fe.png)  
 
 ----
 
-![image](https://user-images.githubusercontent.com/55552780/115602373-8a843f80-a2e7-11eb-8e07-2054ab390883.png) <br>
-![image](https://user-images.githubusercontent.com/55552780/115602437-9b34b580-a2e7-11eb-93fd-4c64507b2c8a.png) <br>
-![image](https://user-images.githubusercontent.com/55552780/115603402-c8359800-a2e8-11eb-8c51-5a62150a237d.png) <br>
+![image](https://user-images.githubusercontent.com/55552780/115602373-8a843f80-a2e7-11eb-8e07-2054ab390883.png)  
+![image](https://user-images.githubusercontent.com/55552780/115602437-9b34b580-a2e7-11eb-93fd-4c64507b2c8a.png)  
+![image](https://user-images.githubusercontent.com/55552780/115603402-c8359800-a2e8-11eb-8c51-5a62150a237d.png)  
 
 ## Console Output
 Початковий вигляд колекції з об'єктами **Dog**: <br>
-![image](https://user-images.githubusercontent.com/55552780/115850269-63845580-a42e-11eb-8afa-0703f08951f5.png) <br>
+![image](https://user-images.githubusercontent.com/55552780/115850269-63845580-a42e-11eb-8afa-0703f08951f5.png)  
 <br>
 Сортована (за **id**) колекція з **Dog**: <br>
-![image](https://user-images.githubusercontent.com/55552780/115851002-253b6600-a42f-11eb-8373-6d9459f8a7bb.png) <br>
+![image](https://user-images.githubusercontent.com/55552780/115851002-253b6600-a42f-11eb-8373-6d9459f8a7bb.png)  
 <br>
-Витягнута з файлу колекція з **Dog** (поле **id** не серіадізується - як бачимо, всі id об'єктів колекції набувають значення за замовчуванням): <br>
+Витягнута з файлу колекція з **Dog** (поле **id** не серіадізується - як бачимо, всі id об'єктів колекції набувають значення за замовчуванням):  
 ![image](https://user-images.githubusercontent.com/55552780/115849767-e0fb9600-a42d-11eb-84ec-45f3458ba972.png)
 
 ----
+
+## Контрольні питання  
