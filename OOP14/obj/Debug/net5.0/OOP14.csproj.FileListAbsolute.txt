@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\OOP\OOP14\bin\Debug\net5.0\OOP14.exe
+C:\Users\Admin\source\repos\OOP\OOP14\bin\Debug\net5.0\OOP14.deps.json
+C:\Users\Admin\source\repos\OOP\OOP14\bin\Debug\net5.0\OOP14.runtimeconfig.json
+C:\Users\Admin\source\repos\OOP\OOP14\bin\Debug\net5.0\OOP14.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\OOP\OOP14\bin\Debug\net5.0\OOP14.dll
+C:\Users\Admin\source\repos\OOP\OOP14\bin\Debug\net5.0\ref\OOP14.dll
+C:\Users\Admin\source\repos\OOP\OOP14\bin\Debug\net5.0\OOP14.pdb
+C:\Users\Admin\source\repos\OOP\OOP14\obj\Debug\net5.0\OOP14.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\OOP\OOP14\obj\Debug\net5.0\OOP14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\OOP\OOP14\obj\Debug\net5.0\OOP14.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\OOP\OOP14\obj\Debug\net5.0\OOP14.AssemblyInfo.cs
+C:\Users\Admin\source\repos\OOP\OOP14\obj\Debug\net5.0\OOP14.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\OOP\OOP14\obj\Debug\net5.0\OOP14.dll
+C:\Users\Admin\source\repos\OOP\OOP14\obj\Debug\net5.0\ref\OOP14.dll
+C:\Users\Admin\source\repos\OOP\OOP14\obj\Debug\net5.0\OOP14.pdb
+C:\Users\Admin\source\repos\OOP\OOP14\obj\Debug\net5.0\OOP14.genruntimeconfig.cache
