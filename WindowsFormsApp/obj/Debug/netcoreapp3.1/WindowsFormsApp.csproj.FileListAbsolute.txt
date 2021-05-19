@@ -1,0 +1,16 @@
+D:\NLTU\OOP\WindowsFormsApp\bin\Debug\netcoreapp3.1\WindowsFormsApp.exe
+D:\NLTU\OOP\WindowsFormsApp\bin\Debug\netcoreapp3.1\WindowsFormsApp.deps.json
+D:\NLTU\OOP\WindowsFormsApp\bin\Debug\netcoreapp3.1\WindowsFormsApp.runtimeconfig.json
+D:\NLTU\OOP\WindowsFormsApp\bin\Debug\netcoreapp3.1\WindowsFormsApp.runtimeconfig.dev.json
+D:\NLTU\OOP\WindowsFormsApp\bin\Debug\netcoreapp3.1\WindowsFormsApp.dll
+D:\NLTU\OOP\WindowsFormsApp\bin\Debug\netcoreapp3.1\WindowsFormsApp.pdb
+D:\NLTU\OOP\WindowsFormsApp\obj\Debug\netcoreapp3.1\WindowsFormsApp.csprojAssemblyReference.cache
+D:\NLTU\OOP\WindowsFormsApp\obj\Debug\netcoreapp3.1\WindowsFormsApp.Form1.resources
+D:\NLTU\OOP\WindowsFormsApp\obj\Debug\netcoreapp3.1\WindowsFormsApp.csproj.GenerateResource.cache
+D:\NLTU\OOP\WindowsFormsApp\obj\Debug\netcoreapp3.1\WindowsFormsApp.AssemblyInfoInputs.cache
+D:\NLTU\OOP\WindowsFormsApp\obj\Debug\netcoreapp3.1\WindowsFormsApp.AssemblyInfo.cs
+D:\NLTU\OOP\WindowsFormsApp\obj\Debug\netcoreapp3.1\WindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\NLTU\OOP\WindowsFormsApp\obj\Debug\netcoreapp3.1\WindowsFormsApp.dll
+D:\NLTU\OOP\WindowsFormsApp\obj\Debug\netcoreapp3.1\WindowsFormsApp.pdb
+D:\NLTU\OOP\WindowsFormsApp\obj\Debug\netcoreapp3.1\WindowsFormsApp.genruntimeconfig.cache
+D:\NLTU\OOP\WindowsFormsApp\obj\Debug\netcoreapp3.1\WindowsFormsApp.Form2.resources
